@@ -5,3 +5,4 @@ console.log("check duplicacy");
 
 console.log("from office id");
 console.log("One");
+console.log("Outlook");
